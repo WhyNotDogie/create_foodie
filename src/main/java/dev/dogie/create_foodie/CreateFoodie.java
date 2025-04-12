@@ -1,4 +1,4 @@
-package com.example.modid;
+package dev.dogie.create_foodie;
 
 import com.simibubi.create.Create;
 
@@ -10,9 +10,9 @@ import net.minecraft.resources.ResourceLocation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ExampleMod implements ModInitializer {
-	public static final String ID = "modid";
-	public static final String NAME = "Example Mod";
+public class CreateFoodie implements ModInitializer {
+	public static final String ID = "create_foodie";
+	public static final String NAME = "Create: Foodie";
 	public static final Logger LOGGER = LoggerFactory.getLogger(NAME);
 
 	@Override
