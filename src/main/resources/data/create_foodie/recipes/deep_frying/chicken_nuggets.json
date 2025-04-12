@@ -1,0 +1,19 @@
+{
+    "type": "create_bic_bit:deep_frying",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "create_foodie:breaded_chicken_cuts"
+      },
+      {
+        "amount": 100,
+        "fluid": "create_bic_bit:frying_oil"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "create_foodie:chicken_nuggets"
+      }
+    ]
+  }

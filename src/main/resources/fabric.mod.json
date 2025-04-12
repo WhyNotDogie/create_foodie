@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "create_foodie",
   "version": "${version}",
-  "name": "Create Foodie",
+  "name": "Create: Foodie",
   "description": "create addon for foodies",
   "authors": [
     "whynotdogie"

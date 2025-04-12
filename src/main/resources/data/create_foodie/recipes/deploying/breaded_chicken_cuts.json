@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "farmersdelight:chicken_cuts"
+      },
+      {
+        "item": "create_foodie:breadcrumbs"
+      }
+    ],
+    "results": [
+      {
+        "item": "create_foodie:breaded_chicken_cuts"
+      }
+    ]
+  }
